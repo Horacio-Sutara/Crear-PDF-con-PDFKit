@@ -7,6 +7,10 @@ Instala la librería pdfkit si no la tienes:
 
     npm install pdfkit
 
+Instala la librería pdfkit si no la tienes:
+
+    npm install pdfmake
+
 Cambiar ruta donde se tiene la fuente:
     doc.registerFont('Carlito', 'D:/Descargas/Rar/carlito/Carlito-Regular.ttf');
 
