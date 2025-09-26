@@ -8,9 +8,7 @@ Instala la librería pdfkit si no la tienes:
     npm install pdfkit
 
 Cambiar ruta donde se tiene la fuente:
-    doc.registerFont('Carlito', 'D:/Descargas/Rar/carlito/Carlito-Regular.ttf'); //cambiar ruta
-
-
+    doc.registerFont('Carlito', 'D:/Descargas/Rar/carlito/Carlito-Regular.ttf');
 
 Ejecuta el script:
 
